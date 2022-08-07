@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Calculator/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.163" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Calculator/app/src/main/res/drawable/bg.xml" value="0.133" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Calculator/app/src/main/res/drawable/bg1.xml" value="0.15" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Calculator/app/src/main/res/drawable/bg_landscape.xml" value="0.133" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Calculator/app/src/main/res/drawable/ic_baseline_backspace_24.xml" value="0.15" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Calculator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.163" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Calculator/app/src/main/res/drawable/ic_launcher_cal_foreground.xml" value="0.15" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Calculator/app/src/main/res/font/kameron_bold.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Calculator/app/src/main/res/layout-land/fragment_landscape.xml" value="0.22" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Calculator/app/src/main/res/layout-land/layout_landscape.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Calculator/app/src/main/res/layout-v26/fragment_simple_calculator.xml" value="0.10666666666666667" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Calculator/app/src/main/res/layout/activity_main.xml" value="0.1578125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Calculator/app/src/main/res/layout/activity_splash.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Calculator/app/src/main/res/layout/fragment_simple_calculator.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Calculator/app/src/main/res/layout/layout_landscape.xml" value="0.14375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
